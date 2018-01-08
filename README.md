@@ -1,0 +1,1 @@
+ A basic pair multithread client and server with specific characteristics for Networking's KR 
